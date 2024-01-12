@@ -1,16 +1,23 @@
-### Hi there 👋
+## About Me
 
-<!--
-**TeacherTan/TeacherTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+不知名的小菜鸡，现在是前端开发实习生
 
-Here are some ideas to get you started:
+**成分复杂的Gamer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+平常的兴趣是享受生活和游戏
+
+## Tech Stack
+
+- C++ | Rust | Python | C# | Lua | JavaScript/TypeScript | MySQL
+- Visual Studio Code | Git
+- Unreal 5 ｜ Unity
+
+![](https://github-profile-trophy.vercel.app/?username=TeacherTan)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&include_all_commits=true&count_private=true&show_icons=true&line_height=20)
+
+## Connect with Me
+
+- GitHub：[https://github.com/TeacherTan](https://github.com/TeacherTan)
+- Email：[ferdian0824@gmail.com](ferdian0824@gmail.com)
+- WeChat: leo88158
