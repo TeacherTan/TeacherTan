@@ -14,7 +14,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=TeacherTan)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&include_all_commits=true&count_private=true&show_icons=true&line_height=20)
+![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true)
+
+[![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan)](https://github.com/TeacherTan/github-readme-stats)
 
 ## Connect with Me
 
