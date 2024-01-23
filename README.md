@@ -12,11 +12,9 @@
 - Visual Studio Code | Git
 - Unreal 5 ｜ Unity
 
-![](https://github-profile-trophy.vercel.app/?username=TeacherTan)
+![](https://github-profile-trophy.vercel.app/?username=TeacherTan&theme=radical)
 
-![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true&theme=transparent)
-
-[![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan)](https://github.com/TeacherTan/github-readme-stats)
+![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true&theme=radical)
 
 ## Connect with Me
 
