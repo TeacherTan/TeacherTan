@@ -12,7 +12,7 @@
 - Visual Studio Code | Git
 - Unreal 5 ｜ Unity
 
-![](https://github-profile-trophy.vercel.app/?username=TeacherTan&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=TeacherTan&theme=radical&column=-1)
 
 ![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true&theme=radical)
 
