@@ -24,4 +24,3 @@
 
 - GitHub：[https://github.com/TeacherTan](https://github.com/TeacherTan)
 - Email：[ferdian0824@gmail.com](ferdian0824@gmail.com)
-- WeChat: leo88158
