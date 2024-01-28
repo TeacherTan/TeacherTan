@@ -1,3 +1,8 @@
+# Neal_Tan
+
+![duxinlan](https://github.com/TeacherTan/TeacherTan/blob/fb7ece2b56477d8eb8b4c2a9b79e8e1dfadd10ab/DXLbanner.png)
+
+
 ## About Me
 
 不知名的小菜鸡，现在是前端开发实习生
