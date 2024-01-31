@@ -1,8 +1,8 @@
 # My Profile
 
-Nickname: Anmu | Neal | TeacherTan : )
+**Nickname**: Anmu | Neal | TeacherTan : )
 
-From: China🇨🇳
+**From**: China🇨🇳
 
 ![skuld(2240x703)](https://github.com/TeacherTan/TeacherTan/blob/5c3e43bd3da6d50baeca690d0f4cd0f69c864718/img/skuld(2240x703).png)
 > 👆 杜心兰 / skuld
@@ -11,7 +11,7 @@ From: China🇨🇳
 
 ### About Me
 
-💻现在是前端开发实习生，目前是全栈工程师
+💻现在是前端开发实习生，目标是全栈工程师
 
 🕹️成分复杂的Gamer(音游、FPS、MMORPG、Rogue-like...)
 
