@@ -5,8 +5,8 @@ Nickname: Anmu | Neal | TeacherTan : )
 From: China🇨🇳
 
 ![skuld(2240x703)](https://github.com/TeacherTan/TeacherTan/blob/5c3e43bd3da6d50baeca690d0f4cd0f69c864718/img/skuld(2240x703).png)
-<p style="text-align: center; margin: 0px; padding: 0px">👆杜心兰 / skuld</p>
-<p style="text-align: center; margin: 0px; padding: 0px">来自于独立开发游戏：《chains》/《深锁暗瞳》</p>
+> 👆 杜心兰 / skuld
+> 来自于 《chains》/《深锁暗瞳》
 
 ### About Me
 
