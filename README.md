@@ -1,6 +1,6 @@
 # Neal_Tan
 
-![duxinlan](https://github.com/TeacherTan/TeacherTan/blob/fb7ece2b56477d8eb8b4c2a9b79e8e1dfadd10ab/DXLbanner.png)
+![skuld(1500x1000)](https://anmu-typora-picture.oss-cn-hangzhou.aliyuncs.com/skuld(1500x1000).png)
 
 
 ## About Me
