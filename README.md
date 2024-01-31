@@ -39,4 +39,4 @@
 ### Connect with Me
 
 - GitHub：[github.com/TeacherTan](https://github.com/TeacherTan)
-- Mail to：[ferdian0824@gmail.com](mailto:ferdian0824@gmail.com)
+- Mail ：[ferdian0824@gmail.com](mailto:ferdian0824@gmail.com)
