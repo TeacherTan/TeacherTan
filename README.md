@@ -1,19 +1,18 @@
-# Neal_Tan
+# Anmu
 
 ![skuld(2240x703)](https://anmu-typora-picture.oss-cn-hangzhou.aliyuncs.com/skuld(2240x703).png)
 
+### About Me
 
-## About Me
+💻现在是前端开发实习生，目前是全栈工程师
 
-不知名的小菜鸡，现在是前端开发实习生
+🕹️成分复杂的Gamer(音游、FPS、MMORPG、Rogue-like...)
 
-成分复杂的Gamer(音游、FPS、MMORPG、Rogue-like...)
+📷平常的兴趣是享受生活和游戏
 
-平常的兴趣是享受生活和游戏
+### Tech Stack
 
-## Tech Stack
-
-- C++ | Rust | Python | C# | Lua | JavaScript/TypeScript | MySQL
+- C++ | Rust | Python | C# | Lua | JS / TS | MySQL
 - Visual Studio Code | Git
 - Unreal 5 ｜ Unity
 
@@ -23,9 +22,7 @@
 
 [![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan)](https://github.com/TeacherTan/github-readme-stats)
 
+### Connect with Me
 
-
-## Connect with Me
-
-- GitHub：[https://github.com/TeacherTan](https://github.com/TeacherTan)
-- Email：[ferdian0824@gmail.com](ferdian0824@gmail.com)
+- GitHub：[github.com/TeacherTan](https://github.com/TeacherTan)
+- Mail to：[ferdian0824@gmail.com](mailto:ferdian0824@gmail.com)
