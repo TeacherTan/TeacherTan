@@ -1,6 +1,6 @@
 # Neal_Tan
 
-![skuld(1500x1000)](https://anmu-typora-picture.oss-cn-hangzhou.aliyuncs.com/skuld(1500x1000).png)
+![skuld(2240x703)](https://anmu-typora-picture.oss-cn-hangzhou.aliyuncs.com/skuld(2240x703).png)
 
 
 ## About Me
