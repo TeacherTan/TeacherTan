@@ -5,12 +5,15 @@
 ### About Me
 
 💻现在是前端开发实习生，目前是全栈工程师
+
   Now: Front-end development intern   Ambition: Full-stack engineer
 
 🕹️成分复杂的Gamer(音游、FPS、MMORPG、Rogue-like...)
+
   I'm a gamer, e.g. Music games、FPS、MMORPG
 
 📷平常的兴趣是享受生活和游戏
+
   Enjoying life and games
 
 ### Tech Stack
