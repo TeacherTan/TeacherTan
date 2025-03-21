@@ -12,21 +12,16 @@
 
 ### About Me
 
-💻现在是前端开发实习生，目标是全栈工程师
-
-🕹️成分复杂的Gamer(音游、FPS、MMORPG、Rogue-like...)
-
-📷平常的兴趣是享受生活和游戏
+💻现在是前端开发者，目标是全栈工程师
+🕹️Gamer (音游、FPS、MMORPG、Rogue-like...)
+📷最大的兴趣是享受生活和探索未知领域
 
 ### Tech Stack
 
-- C++ | Rust | Python | C# | Lua | JS / TS | MySQL
-- Visual Studio Code | Git
-- Unreal 5 ｜ Unity
+- JS / TS | React / NextJS | Python | Rust | Lua | MySQL
+- Github Action
 
 ![TeacherTan's ](https://github-profile-trophy.vercel.app/?username=TeacherTan&theme=flat&row=2)
-
-![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true&theme=transparent)
 
 [![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan&langs_count=8&layout=compact)](https://github.com/TeacherTan/github-readme-stats)
 
