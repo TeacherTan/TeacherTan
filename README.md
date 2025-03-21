@@ -28,7 +28,7 @@
 
 ![Neal_Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeacherTan&count_private=true&show_icons=true&theme=transparent)
 
-[![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan)](https://github.com/TeacherTan/github-readme-stats)
+[![TeacherTan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TeacherTan&langs_count=8&layout=compact)](https://github.com/TeacherTan/github-readme-stats)
 
 ### Connect with Me
 
